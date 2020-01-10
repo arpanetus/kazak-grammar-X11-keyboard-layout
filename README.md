@@ -1,5 +1,8 @@
 # kazak-grammar-X11-keyboard-layout
 
+!["Kazak Grammar Latin"](keyboard-layout-variant.png "Kazak Grammar Latin")
+
+
 ## Install
 
 `install.sh` copies data from current folder into `/usr/share/X11/xkb/`.
