@@ -310,12 +310,12 @@ xkb_symbols "kazakgrammar" {
 
     key <TLDE> {	[     grave,	asciitilde	]	};
     key <AE01> {	[	  1,	exclam 		]	};
-    key <AE02> {	[	  2,	at		]	};
+    key <AE02> {	[	  2,	at		    ]	};
     key <AE03> {	[	  3,	numbersign	]	};
-    key <AE04> {	[	  4,	semicolon	]	};
+    key <AE04> {	[	  4,	asciicircum	]	};
     key <AE05> {	[	  5,	percent		]	};
-    key <AE06> {	[	  6,	asciicircum	]	};
-    key <AE07> {	[	  7,	colon		]	};
+    key <AE06> {	[	  6,	colon	    ]	};
+    key <AE07> {	[	  7,	semicolon	]	};
     key <AE08> {	[	  8,	asterisk	]	};
     key <AE09> {	[	  9,	parenleft	]	};
     key <AE10> {	[	  0,	parenright	]	};
